@@ -10,3 +10,8 @@ Package: systemlock
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: Interface for ofris.
+ .
+ It freezes the system whenever it is executed.
+ It is one of the features of Meilix project by fossasia.
+
+
