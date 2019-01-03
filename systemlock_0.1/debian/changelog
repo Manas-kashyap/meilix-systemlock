@@ -1,8 +1,14 @@
-systemlock (0.1-1) UNRELEASED; urgency=medium
+systemlock (0.1-1.1) UNRELEASED; urgency=medium
 
+  [ Pranav Kulshrestha ]
   * Closes itp bug
 
- -- Pranav Kulshrestha <hulkcodexl16@gmail.com>  Sat, 22 Dec 2018 19:27:56 +0530
+  [ Manas Kashyap ]
+  * Non-maintainer upload.
+  * standard version updated
+  * debhelper bumped
+
+ -- Manas Kashyap <manaskashyaptech@gmail.com>  Thu, 03 Jan 2019 21:22:42 +0530
 
 systemlock (0.1-1) UNRELEASED; urgency=medium
 
